@@ -1,1 +1,8 @@
+
+
+
+
+
 print("helloworld")
+
+print("autoneko")
